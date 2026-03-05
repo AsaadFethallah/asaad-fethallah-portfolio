@@ -2,7 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { motion } from "framer-motion";
-import { Cloud, Moon, Shield, Sun, Terminal, Linkedin, Instagram, Github } from "lucide-react";
+import { Cloud, Github, Instagram, Linkedin, Moon, Shield, Sun, Terminal } from "lucide-react";
 import { useState } from "react";
 
 export default function Portfolio() {
@@ -156,7 +156,7 @@ Interested in DevSecOps, Cloud Security, and SOCs, with a solid foundation in sy
   <div className="grid md:grid-cols-3 gap-8">
     {[
       { title: "Ethical Hacker (Cisco)"},
-      { title: "Ethical Hacker Arabic (Isa7ee7)"},
+      { title: "Ethical Hacker Arabic (Is7ee7)"},
       { title: "OSINT Fundamentals (TCM Security)"},
       { title: "Red Hat System Administration I (RH124 - RHA) - Ver. 10 (RedHat)"},
       { title: "AWS Academy Graduate - Cloud Security Foundations - Training Badge"},
