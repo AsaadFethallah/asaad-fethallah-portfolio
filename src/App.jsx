@@ -31,7 +31,7 @@ export default function Portfolio() {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              CyberSecurity & DevSecOps Engineer
+              CyberSecurity Engineering Student, Cloud Security (AWS) / DevSecOps Enthusiast.
             </h2>
             <p className="mb-6 leading-relaxed text-gray-600 dark:text-gray-300">
               CyberSecurity and Digital Trust engineering student, passionate about Linux systems, networks, virtualization, and web development.
