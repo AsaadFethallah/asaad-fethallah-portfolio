@@ -31,11 +31,11 @@ export default function Portfolio() {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              CyberSecurity Engineering Student, Cloud Security (AWS) / DevSecOps Enthusiast.
+              CyberSecurity Engineering Student, SOC, Cloud Security (AWS) / DevSecOps Enthusiast.
             </h2>
             <p className="mb-6 leading-relaxed text-gray-600 dark:text-gray-300">
               CyberSecurity and Digital Trust engineering student, passionate about Linux systems, networks, virtualization, and web development.
-Interested in DevSecOps, Cloud Security, and SOCs, with a solid foundation in system administration, network architecture, and infrastructure security.
+Interested in SOCs, Cloud Security, and DevSecOps, with a foundation in system administration, network architecture, and infrastructure security.
             </p>
             <div className="flex gap-4">
               <a href="/AsaadFETHALLAH_CV.pdf" download>
