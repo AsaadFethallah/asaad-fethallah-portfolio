@@ -41,7 +41,7 @@ Interested in SOCs, Cloud Security, and DevSecOps, with a foundation in system a
               <a href="/AsaadFETHALLAH_CV.pdf" download>
                 <Button className="rounded-2xl shadow-lg">Download CV</Button>
               </a>
-              <a href="mailto:assaad2005.fet@gmail.com">
+              <a href="https://mail.google.com/mail/?view=cm&to=assaad2005.fet@gmail.com" target="_blank">
                 <Button variant="outline" className="rounded-2xl">
                   Contact Me
                 </Button>
